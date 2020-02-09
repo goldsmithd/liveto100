@@ -63,4 +63,9 @@ var store = [{
         "excerpt":"This is very easy to make and only has a few readily available ingredients. Preparation time about 10 mins Cooking time 30 minutes in a conventional Oven or 10 minutes frying makes 4 pies freeze before cooking Ingredients 4 cans of beans of your choice I use Black Eyed Beans,...","categories": ["Lunch"],
         "tags": ["alignment","captions","content","css","image","lunch"],
         "url": "http://localhost:4000/lunch/bean-burgers/index.html",
+        "teaser":null},{
+        "title": "Butternut Squash Pie",
+        "excerpt":"This is easy to make and only has a few readily available ingredients. Preperation time about 10 mins Cooking time 30 minutes in a conventional Oven makes 3 pies freeze before cooking Ingredients 120g green lentils 1 can cannellini beans or your beans of choice 125g of garden peas 175g...","categories": ["Lunch"],
+        "tags": ["alignment","captions","content","css","image","lunch"],
+        "url": "http://localhost:4000/lunch/butternut-squash-pie/index.html",
         "teaser":null}]
