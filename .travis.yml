@@ -10,8 +10,8 @@
 #rvm:
 # - 2.4
 
-# new follows 
- 
+# new follows
+
 language: ruby
 rvm:
   - 2.4.1
@@ -24,9 +24,9 @@ before_script:
 git:
   depth: 25
   quiet: false
-  
+
 # Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default. 
+# the `install` step will run `bundle install` by default.
 script: ./script/cibuild
 
 #deply to github
@@ -43,7 +43,7 @@ deploy:
   provider: gcs
   access_key_id: $AKEY
   secret_access_key: $ASEC
-  bucket: ndbh_production
+  bucket: www.liveto100.org.uk
   skip_cleanup: true
   acl: public-read
   local-dir: public
@@ -57,7 +57,7 @@ deploy:
 ##  access_key_id: $S3_ACCESS_KEY_ID
 ##  secret_access_key: $S3_SECRET_KEY
 #  access_key_id: $S3_SECRET_KEY
-#  secret_access_key: $S3_ACCESS_KEY_ID  
+#  secret_access_key: $S3_ACCESS_KEY_ID
 ##  bucket: "http://goldsmithd.github.io.s3-website.eu-west-2.amazonaws.com"
 #  bucket: "goldsmithd.github.io.s3-website.eu-west-2.amazonaws.com"
 #  region: eu-west-2
