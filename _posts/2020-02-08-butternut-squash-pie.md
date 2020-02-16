@@ -2,7 +2,7 @@
 title: "Butternut Squash Pie"
 layout: home
 categories:
-  - Lunch
+  - Dinner
 tags:
   - alignment
   - captions
@@ -46,7 +46,7 @@ This is easy to make and only has a few readily available ingredients.
 
 ## Method
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2020-01-25-cottage-pie-pies-1.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2020-02-08-butternut-squash-pie-1.jpg){: .align-left}
 
 **Step 1)** Cook lentils – cover with water and bring to the boil then let simmer for around 20 mins. Boil potatoes for around the same time along with 50g of the Butternut Squash<br>
 

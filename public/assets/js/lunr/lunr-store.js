@@ -65,7 +65,12 @@ var store = [{
         "url": "http://localhost:4000/lunch/bean-burgers/index.html",
         "teaser":null},{
         "title": "Butternut Squash Pie",
-        "excerpt":"This is easy to make and only has a few readily available ingredients. Preperation time about 10 mins Cooking time 30 minutes in a conventional Oven makes 3 pies freeze before cooking Ingredients 120g green lentils 1 can cannellini beans or your beans of choice 125g of garden peas 175g...","categories": ["Lunch"],
+        "excerpt":"This is easy to make and only has a few readily available ingredients. Preperation time about 10 mins Cooking time 30 minutes in a conventional Oven makes 3 pies freeze before cooking Ingredients 120g green lentils 1 can cannellini beans or your beans of choice 125g of garden peas 175g...","categories": ["Dinner"],
         "tags": ["alignment","captions","content","css","image","lunch"],
-        "url": "http://localhost:4000/lunch/butternut-squash-pie/index.html",
+        "url": "http://localhost:4000/dinner/butternut-squash-pie/index.html",
+        "teaser":null},{
+        "title": "Butternut Squash Pizza",
+        "excerpt":"This is easy to make and only has a few readily available ingredients. Preperation time about 10 mins waiting time, about 2-4 hours Cooking time 17 minutes in a conventional Oven makes 1 pizza Ingredients 150g Butternut Squash 1 can Black Beans or your beans of choice 125g of Garden...","categories": ["Dinner"],
+        "tags": ["alignment","captions","content","css","image","Dinner"],
+        "url": "http://localhost:4000/dinner/butternut-squash-pizza/index.html",
         "teaser":null}]
