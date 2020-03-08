@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-layout: home
+layout: archive
 excerpt: "DBH Minimal Mistakes is a flexible two-column Jekyll theme."
 #layouts_gallery:
 #  - url: /assets/images/mm-layout-splash.png
@@ -20,14 +20,10 @@ toc_icon: "columns"
 ---
 
 ## first level
-DBH Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+TBC  :smile:.
 
 ---
 ### second level
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
-
-### annother second level
 
 some more words
 
