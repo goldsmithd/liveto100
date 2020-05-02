@@ -33,4 +33,9 @@ var store = [{
         "excerpt":"The only tricky part of this is the pastry which frankly isnt worth making yourself. Apart from that the rest is really easy. Preperation time about 30 mins Cooking time 30 minutes in a conventional Oven makes 3 pasties freeze before cooking Ingredients Pastry 250g plain flour 1 teaspoon salt...","categories": ["Dinner"],
         "tags": ["alignment","captions","content","css","image","lunch"],
         "url": "http://localhost:4000/dinner/pasties-with-sweed/index.html",
+        "teaser":null},{
+        "title": "Vegetable Chili",
+        "excerpt":"No tricky parts to this at all. Preparation time about 50 mins Cooking time 40 minutes on Stove makes 8 chili freeze after cooking Ingredients Chili base 400g green lentils 3 ribs celery, chopped 4 large carrots, chopped 4 cans chopped tomatoes , liquidized if required 3 cans of your...","categories": ["Dinner"],
+        "tags": ["alignment","captions","content","css","image","lunch"],
+        "url": "http://localhost:4000/dinner/veg-chili/index.html",
         "teaser":null}]
